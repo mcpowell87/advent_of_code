@@ -1,3 +1,2 @@
-# Advent of Code 2022
-
-This repo contains all my work revolving the Advent of Code 2022.
+# Advent of Code
+This contains solutions for my attempts at the advent of code, organized by year.
